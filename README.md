@@ -12,7 +12,7 @@
             alt="ewertonluan" height="30" width="40" /></a>
 </p>
 
-<h2>:neckbeard: Tools that I have experience with</h2>
+<h2>:neckbeard: Tech Stack </h2>
 <h3>:octocat: Programming</h3>
 <p>
     <a href="https://github.com/EwertonLuan?tab=repositories&q=&type=&language=kotlin"><img alt="Kotlin"
