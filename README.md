@@ -12,6 +12,30 @@
             alt="ewertonluan" height="30" width="40" /></a>
 </p>
 
+### Some of my projects
+
+<details>
+  <summary>
+    <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=typescript&text=true&fill=3178c6">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&fill=68a063">
+   </a>
+  </summary>
+  <a href="https://github.com/EwertonLuan/solar-system">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ewertonluan&repo=solar-system" />
+</details>
+
+<details>
+  <summary>
+    <a href="#">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=java&text=true&fill=007396">
+    <img src="https://readme-components.vercel.app/api?component=logo&logo=kotlin&fill=7F52FF">
+   </a>
+  </summary>
+  <a href="https://github.com/EwertonLuan/releaease-manager">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ewertonluan&repo=releaease-manager" />
+</details>
+
 <h2>:neckbeard: Tech Stack </h2>
 <h3>:octocat: Programming</h3>
 <p>
