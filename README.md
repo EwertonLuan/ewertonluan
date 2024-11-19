@@ -23,6 +23,7 @@
   </summary>
   <a href="https://github.com/EwertonLuan/solar-system">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ewertonluan&repo=solar-system" />
+  </a>
 </details>
 
 <details>
@@ -34,6 +35,7 @@
   </summary>
   <a href="https://github.com/EwertonLuan/releaease-manager">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ewertonluan&repo=releaease-manager" />
+  </a>
 </details>
 
 <h2>:neckbeard: Tech Stack </h2>
